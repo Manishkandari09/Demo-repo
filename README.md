@@ -1,3 +1,4 @@
 # Demo-repo
-<brv>
-My first repository git-hub author manishkandari
+<br>
+This is My first repository git-hub 
+  author manishkandari
